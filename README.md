@@ -123,7 +123,7 @@ Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin..."
 ## Requirements
 
 - Python 3.9+
-- A valid [Google AI Studio API key](https://aistudio.google.com/app/apikey)
+- A valid Google AI Studio API key
 - Jupyter Notebook or JupyterLab
 
 ---
